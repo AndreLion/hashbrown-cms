@@ -1,3 +1,4 @@
 markdown: kramdown
 sass:
     sass_dir: _sass
+host: 0.0.0.0
